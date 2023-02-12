@@ -2,7 +2,7 @@
   --font-family-heading: 'Poppins', sans-serif;
   --font-family-paragraph: Helvetica, sans-serif;
   --font-family-monospace: monospace;
-  --base-color: #ffffff;
+  --base-color: #fffff1;
   --base-offset-color: #eaeaea;
   --highlight-color: #7b16ff;
   --heading-color: #1c1b1d;
