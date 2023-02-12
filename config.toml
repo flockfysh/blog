@@ -2,7 +2,7 @@ baseURL = "https://teamnebulaco.github.io/flockfysh-blog/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "flockfysh Blog"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = ""
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
@@ -39,8 +39,8 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = 'home'
-    name = 'Home'
-    url = '/'
+    name = 'flockfysh'
+    url = 'https://flockfysh.tech/'
     weight = 1
   [[menu.main]]
     name = "Tags"
