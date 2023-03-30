@@ -2,17 +2,17 @@
   "links": [
     {
       "name": "twitter",
-      "url": " ",
+      "url": "https://twitter.com/flockfysh",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/teamnebulaco",
+      "url": "https://github.com/flockfysh",
       "image": "images/social/github.svg"
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://www.linkedin.com/company/flockfysh",
       "image": "images/social/linkedin.svg"
     }
   ]
