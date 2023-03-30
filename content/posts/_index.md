@@ -1,8 +1,8 @@
 ---
-title: "the Aquarium"
-date: 2023-03-31
+title: "The Aquarium"
+date: 2023-02-12
 menu:
   main:
-    name: "the Aquarium"
+    name: "Blog"
     weight: 2
 ---
