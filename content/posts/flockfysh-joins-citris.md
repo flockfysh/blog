@@ -4,9 +4,9 @@ date: 2023-02-14
 description: "We're excited to share that flockfysh will brave the waves of AI with the backing of the CITRIS Foundry"
 image: images/cctv2.jpeg
 tags:
-   - CITRIS
-   - flockfysh 
-   - incubator
+  - CITRIS
+  - flockfysh
+  - incubator
 ---
 
 Together, in unison with CITRIS, we are steps closer on our journey towards making personalized datasets and AI a reality. With the backing of CITRIS, we strengthen our partnerships to make this vision more concrete.
@@ -22,16 +22,3 @@ CITRIS has repeatedly topped our minds as the premier research SV incubator. Pro
 Together, with [Raymond Tian](https://twitter.com/rymdtian), we'll be participating in the Spring '23 batch.
 
 This is just the beginning of a new journey and I'm looking forward to sharing every step of the way with you all!
-
-
-```javascript
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
