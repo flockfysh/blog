@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/Post.astro"
 title: flockfysh + CITRIS
-image: /images/freelance
+image: /images/citrus
 publishedAt: "2023-02-15"
 category: "News"
 ---
