@@ -2,7 +2,7 @@
 layout: "../../layouts/Post.astro"
 title: flockfysh + Startup Founder Daily
 image: /images/citrus
-publishedAt: "2023-04-03""
+publishedAt: "2023-04-03"
 category: "News"
 ---
 
